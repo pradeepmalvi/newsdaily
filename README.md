@@ -1,1 +1,1 @@
-"# dailynews" 
+"# newsapi"
