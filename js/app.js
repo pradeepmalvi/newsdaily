@@ -37,7 +37,7 @@ function int(){
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
@@ -98,7 +98,7 @@ business.addEventListener('click', (e) => {
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
@@ -145,7 +145,7 @@ entertainment.addEventListener('click', (e) => {
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
@@ -193,7 +193,7 @@ health.addEventListener('click', (e) => {
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
@@ -241,7 +241,7 @@ science.addEventListener('click', (e) => {
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
@@ -289,7 +289,7 @@ technology.addEventListener('click', (e) => {
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
@@ -337,7 +337,7 @@ sports.addEventListener('click', (e) => {
                 <div class="card">
                         <img class="img-fluid mb-0" src="${news.urlToImage !== null
                             ? news.urlToImage
-                            : "/img/placeholder.jpg"}">
+                            : "img/placeholder.jpg"}">
                         <div class="card-text p-2">
                             <h5 class="card-title text-primary">${news.title}</h5>
                             <p class="m-0">${news.description}</p>
