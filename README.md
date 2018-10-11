@@ -1,2 +1,2 @@
 # newsdaily
-Live demo on pradeepmalvi.github.io/newsdaily/
+Live demo on <a href="pradeepmalvi.github.io/newsdaily/">live</a>
